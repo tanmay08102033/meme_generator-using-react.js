@@ -1,4 +1,9 @@
 # Getting Started with Create React App
+Adding a video to README.md.
+
+
+https://user-images.githubusercontent.com/105073156/174324453-7a031f3d-fb57-417b-b513-bca09438604d.mp4
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
